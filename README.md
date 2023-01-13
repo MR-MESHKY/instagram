@@ -1,1 +1,4 @@
-{"url":"https://hosteagle.club/__cpi.php?s=Q05rb0oxUjA5WmtybzZ6LzBIOGt0Z2ZCbHJVek1GSGFXQURMKzlqdzhaek1ZaXg1R0h3Yjc5ZngrVldMdWt1RWdtOWhBOEdEYTRlZFRYSk1Pa3lSbjEyckVSQkhXOVpjWFUweVlWVjcyTm9saXd1RzRacjFjQ0RKWjYyR3dmdTNEVWlOYmFxS2NycFZlcHovVVdYVmZ3PT0%3D&r=aW5zdGFncmFtLmNvbQ%3D%3D&__cpo=1"}
+{
+  "url": "https://hosteagle.club/__cpi.php?s=Q05rb0oxUjA5WmtybzZ6LzBIOGt0a3lWbjJxUC8vNVdqbmdncWRySTA4OVc2L3p2NEdGd0JIZmxlK1ZwV2lldnpXQUw1VXkxZTFRZUtEcTJBUHROakthNW1la09mVjF6YzEvT0d2TnJwQnplbnpUTEI5OE1QWXBqVDg1KzNVMHo5ZVV0VXBtQnV6QnB2WW05ZGxHbWRnPT0%3D&r=aW5zdGFncmFtLmNvbQ%3D%3D&__cpo=1",
+  "whatsApp": "https://hosteagle.club/__cpi.php?s=Q05rb0oxUjA5WmtybzZ6LzBIOGt0bVduL3l4eXJvM0JZQTFrb3NETXduN3NpM0tpUysvbUFvekpLeDdIMzk5NWRJUEs5dlpWN2xMczdDei9RY3IveFJhQnVhdnRYVWNZcUdrVmhHWk1ncDFZNXZZQTVpQkJTTXd0SC9yNVBQVUlScXhQY2ZTaFR3U05OWVFIQ2Z2WHZnPT0%3D&r=V2ViLndoYXRzYXBwLmNvbQ%3D%3D&__cpo=1"
+}
