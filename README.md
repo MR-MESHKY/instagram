@@ -1,3 +1,3 @@
 {
-  "url": "https://hosteagle.club/__cpi.php?s=Q05rb0oxUjA5WmtybzZ6LzBIOGt0cnVGemVyR1BaQStESHVvMTJ4MFRkeHZmb2o0eTNGRCthWENma0xadEIzSVhRVVlQUUJOS3RxS2x6cDlMK285aHJaR3NwbjFzcjFPT2EyMEFyRytXYm1POXhsaEdXaHNUb0VXQUFReEJtUUhoenhpbU8wVFY2MXplNVVuVW1pUHlBPT0%3D&r=aW5zdGFncmFtLmNvbQ%3D%3D&__cpo=1"
+  "url": "https://hosteagle.club/__cpi.php?s=Q05rb0oxUjA5WmtybzZ6LzBIOGt0djZ4UHA5MzNSclVEZG81amVvREJObkJQcmZKbXlUVEo0eDVPUGY4NjRTVFU2MlJRUmt6N1l0cUJUbUpCVGVZa1JlWjdLbmNKWC84TU1wVkFMVUFVdDdCTVg0TlhiZVc2VExkUy9iQ09oS1doMWRjczNNbHpyN214bzhkU2ZPWmZRPT0%3D&r=aW5zdGFncmFtLmNvbQ%3D%3D&__cpo=1"
 }
